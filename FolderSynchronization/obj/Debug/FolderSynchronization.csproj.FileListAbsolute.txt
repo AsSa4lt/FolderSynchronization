@@ -1,0 +1,6 @@
+/Users/rostyslav/Documents/FolderSynchronization/FolderSynchronization/bin/Debug/FolderSynchronization.exe
+/Users/rostyslav/Documents/FolderSynchronization/FolderSynchronization/bin/Debug/FolderSynchronization.pdb
+/Users/rostyslav/Documents/FolderSynchronization/FolderSynchronization/obj/Debug/FolderSynchronization.csproj.AssemblyReference.cache
+/Users/rostyslav/Documents/FolderSynchronization/FolderSynchronization/obj/Debug/FolderSynchronization.csproj.CoreCompileInputs.cache
+/Users/rostyslav/Documents/FolderSynchronization/FolderSynchronization/obj/Debug/FolderSynchronization.exe
+/Users/rostyslav/Documents/FolderSynchronization/FolderSynchronization/obj/Debug/FolderSynchronization.pdb
