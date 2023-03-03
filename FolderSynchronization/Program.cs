@@ -17,7 +17,7 @@ class FolderSynchronizer
         if (args.Length != 4)
         {
             Console.WriteLine("Usage: FolderSynchronizer.exe sourceFolder replicaFolder synchronizationIntervalInSeconds logFilePath");
-            //return;
+            return;
         }
 
         sourceFolder = args[0]; 
